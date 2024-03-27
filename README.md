@@ -1,5 +1,7 @@
 # AutoUSB-FileTransfer
 
-`ps
+## instruction
+
+```ps
 .\script.ps1
-`
+```
