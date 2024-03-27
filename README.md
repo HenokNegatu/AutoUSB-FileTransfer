@@ -24,7 +24,7 @@ This PowerShell script automates the process of copying PowerPoint (PPT), Text(t
    - Open PowerShell and navigate to the directory where you saved the script.
    - Run the script using the following command:
      ```powershell
-     PS C:\path\to\script> .\usb_autocopy.ps1
+     PS C:\path\to\script> .\script.ps1
      ```
 
 5. **Note**: Ensure that you have appropriate permissions to access the destination folder.
